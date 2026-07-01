@@ -33,30 +33,6 @@ Everything is explained visually.
 
 ---
 
-# 📸 Preview
-
-> Add screenshots here after completing the project.
-
-### Home Page
-
-```
-[ Screenshot Here ]
-```
-
-### API Lesson
-
-```
-[ Screenshot Here ]
-```
-
-### Live Demo
-
-```
-[ Screenshot Here ]
-```
-
----
-
 # 🚀 Features
 
 - 🌑 Modern Dark Theme
